@@ -1,26 +1,51 @@
-# Dependencies
-markdown:         redcarpet
-highlighter:      Pygments
+title: Blog
+description: Researcher / Data Scientist
+author: Khoi-Nguyen Tran
+github: https://github.com/kndtran
+about: I am a researcher and data scientist. I specialise in text mining and  machine learning applications. Also, "Nguyen" is my first name! XD
+username: kndtran
+disqus_shortname: kndtran
+google_analytics: UA-XXXXXXXX-Y
 
-# Permalinks
-permalink:        pretty
+future: true
+enableTags: true
+tagarray: []
 
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          /
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+social:
+    - icon: fa-facebook
+      link: "https://facebook.com/kndtran"
+#    - icon: fa-twitter
+#      link: "https://twitter.com/kndtran"
+    - icon: fa-linkedin
+      link: "https://au.linkedin.com/in/kndtran"
+    - icon: fa-github
+      link: "https://github.com/kndtran"
 
-gems:							[jekyll-paginate, jekyll-gist]
-paginate:         5
+# http://fontawesome.io/icons/
 
-# Custom vars
-version:          2.1.0
+share:
+  twitter_username: kndtran
+  fb_appid: 0
 
-github:
-  repo:           https://github.com/poole/hyde
+urls:
+    - text: About Me
+      url: /about/
+    - text: Projects
+      url: /projects/
+    - text: Google Scholar
+      url: https://scholar.google.com.au/citations?user=ihFcT5QAAAAJ&hl=en
+
+url: "https://kndtran.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist

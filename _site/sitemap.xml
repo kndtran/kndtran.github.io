@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog</title>
+    <description>Researcher / Data Scientist</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/sitemap.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 24 Jan 2017 00:36:54 +1100</pubDate>
+    <lastBuildDate>Tue, 24 Jan 2017 00:36:54 +1100</lastBuildDate>
+    <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>A New Website Layout</title>
+        <description>&lt;p&gt;After many years of a basic website hosted on my university’s computer, I discovered github-pages and Jekyll.&lt;/p&gt;
+
+&lt;p&gt;Here is a first of a new online presence. Let’s see how long this lasts, hahaha.&lt;/p&gt;
+
+&lt;p&gt;A mark to an eventfull year ahead, and many years that have passed.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Jan 2017 00:42:00 +1100</pubDate>
+        <link>http://localhost:4000/jekyll/2017/01/23/a-new-layout.html</link>
+        <guid isPermaLink="true">http://localhost:4000/jekyll/2017/01/23/a-new-layout.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
+    
+  </channel>
+</rss>
