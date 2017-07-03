@@ -9,10 +9,9 @@ gems: [jekyll-paginate]
 port: 3000
 safe: true
 
-
 # edit here to achieve your personal greatness
 url: http://kndtran.github.io/
-baseurl: /
+baseurl: 
 title: Khoi-Nguyen Tran
 author: Khoi-Nguyen Tran
 description: Resume and personal site
