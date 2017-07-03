@@ -1,51 +1,33 @@
-title: Blog
-description: Researcher / Data Scientist
-author: Khoi-Nguyen Tran
-github: https://github.com/kndtran
-about: I am a researcher and data scientist. I specialise in text mining and  machine learning applications. Also, "Nguyen" is my first name! XD
-username: kndtran
-disqus_shortname: kndtran
-google_analytics: UA-XXXXXXXX-Y
-
-future: true
-enableTags: true
-tagarray: []
-
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
-
-social:
-    - icon: fa-facebook
-      link: "https://facebook.com/kndtran"
-#    - icon: fa-twitter
-#      link: "https://twitter.com/kndtran"
-    - icon: fa-linkedin
-      link: "https://au.linkedin.com/in/kndtran"
-    - icon: fa-github
-      link: "https://github.com/kndtran"
-
-# http://fontawesome.io/icons/
-
-share:
-  twitter_username: kndtran
-  fb_appid: 0
-
-urls:
-    - text: About Me
-      url: /about/
-    - text: Projects
-      url: /projects/
-    - text: Google Scholar
-      url: https://scholar.google.com.au/citations?user=ihFcT5QAAAAJ&hl=en
-
-url: "https://kndtran.github.io"
-baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/page:num/"
+# top level stuff you probably don't need to touch
+highlighter: rouge
 markdown: kramdown
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 3000
+safe: true
+
+
+# edit here to achieve your personal greatness
+url: http://kndtran.github.io/
+baseurl: /
+title: Khoi-Nguyen Tran
+author: Khoi-Nguyen Tran
+description: Resume and personal site
+avatar: profile.png
+#email: kndtran@gmail.com
+facebook: kndtran
+github: kndtran
+#twitter: kndtran
+linkedin: kndtran
+#stackoverflow: username   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus 
+#disqus: username
+#google_analytics: UA-69391421-1
+gscholar: ihFcT5QAAAAJ
+researchgate: Khoi_Nguyen_Tran
+
+# needed for travis-ci build
+exclude: [vendor]
