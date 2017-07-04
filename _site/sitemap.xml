@@ -2,10 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://localhost:3000/</loc>
-    <lastmod>2017-07-03T14:02:49+10:00</lastmod>
+    <lastmod>2017-07-04T13:44:45+10:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
+  
+    <url>
+      <loc>http://localhost:3000/new-website.html</loc>
+      
+        <lastmod>2017-07-03T00:00:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
   
     <url>
       <loc>http://localhost:3000/future-shapers-forum.html</loc>
@@ -33,11 +46,63 @@
       
     </url>
   
+    <url>
+      <loc>http://localhost:3000/new-apartment-southbank.html</loc>
+      
+        <lastmod>2017-03-03T00:00:00+11:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:3000/new-job-post-doc-ibm.html</loc>
+      
+        <lastmod>2016-06-01T00:00:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:3000/new-apartment-melbourne-cbd.html</loc>
+      
+        <lastmod>2015-11-23T00:00:00+11:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:3000/arrived-in-melbourne.html</loc>
+      
+        <lastmod>2015-05-27T00:00:00+10:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+  
   
   <url>
     <loc>http://localhost:3000/404</loc>
     
-      <lastmod>2017-07-03T14:02:49+10:00</lastmod>
+      <lastmod>2017-07-04T13:44:45+10:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -50,7 +115,7 @@
   <url>
     <loc>http://localhost:3000/atom.xml</loc>
     
-      <lastmod>2017-07-03T14:02:49+10:00</lastmod>
+      <lastmod>2017-07-04T13:44:45+10:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -63,7 +128,7 @@
   <url>
     <loc>http://localhost:3000/blog</loc>
     
-      <lastmod>2017-07-03T14:02:49+10:00</lastmod>
+      <lastmod>2017-07-04T13:44:45+10:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -76,7 +141,7 @@
   <url>
     <loc>http://localhost:3000/</loc>
     
-      <lastmod>2017-07-03T14:02:49+10:00</lastmod>
+      <lastmod>2017-07-04T13:44:45+10:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -89,7 +154,7 @@
   <url>
     <loc>http://localhost:3000/projects</loc>
     
-      <lastmod>2017-07-03T14:02:49+10:00</lastmod>
+      <lastmod>2017-07-04T13:44:45+10:00</lastmod>
     
     
       <changefreq>monthly</changefreq>
@@ -102,7 +167,7 @@
   <url>
     <loc>http://localhost:3000/sitemap.xml</loc>
     
-      <lastmod>2017-07-03T14:02:49+10:00</lastmod>
+      <lastmod>2017-07-04T13:44:45+10:00</lastmod>
     
     
       <changefreq>monthly</changefreq>

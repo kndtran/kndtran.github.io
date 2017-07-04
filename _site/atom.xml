@@ -6,7 +6,7 @@
   
   <link href="http://localhost:3000/"/>
   <id>http://localhost:3000/</id>
-  <updated>2017-07-03T14:02:49Z</updated>
+  <updated>2017-07-04T13:44:45Z</updated>
   <author>
     <name>Khoi-Nguyen Tran</name>
     <email></email>
@@ -14,12 +14,35 @@
   <rights type="text">Copyright © 2017 Khoi-Nguyen Tran. All rights reserved.</rights>
   
   <entry>
+  <title type="text">(Another) New website layout</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/new-website.html" />
+  <id>http://localhost:3000/new-website</id>
+  <published>2017-07-03T00:00:00Z</published>
+  <updated>2017-07-03T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>I’ve been networking a lot lately, and the old website layout just didn’t feel
+right for what I was trying to present of myself. Since I will be doing a lot
+networking in the future, I put in a good chunk of time to get this new website
+layout up. Hopefully this will be the last time for many years.</p>
+
+<p>I like this template so far. Clean and simple. Although, it really needs a
+merge of the vitae and sustain repositories.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
   <title type="text">Future Shapers Forum</title>
   <link rel="alternate" type="text/html" href="http://localhost:3000/future-shapers-forum.html" />
   <id>http://localhost:3000/future-shapers-forum</id>
   <published>2017-06-23T00:00:00Z</published>
   <updated>2017-06-23T00:00:00Z</updated>
-  <content type="html"><![CDATA[ <p>TODO: Write up a reflection of the Future Shapers Forum.</p>
+  <content type="html"><![CDATA[ <p>Website: http://www.futureshapers.org.au/</p>
+
+<p>I got an invite to this event from AVYLD. It was pretty good. Met a lot of
+people from various backgrounds (2/3 government though), and made some good
+connections. This was a short and packed 2.5 day event. Will write up about
+this event soon.</p>
+
  ]]></content>
 </entry>
 
@@ -30,7 +53,84 @@
   <id>http://localhost:3000/avyld</id>
   <published>2017-05-20T00:00:00Z</published>
   <updated>2017-05-20T00:00:00Z</updated>
-  <content type="html"><![CDATA[ <p>TODO: Write up a reflection of the AVYLD.</p>
+  <content type="html"><![CDATA[ <p>Website: http://www.australiavietnam.org/</p>
+
+<p>This was a pretty awesome event and amazingly organised. I will write up more
+for this event in the future. So much to write and to reflect on.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">New apartment in Southbank, just outside of the CBD grid</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/new-apartment-southbank.html" />
+  <id>http://localhost:3000/new-apartment-southbank</id>
+  <published>2017-03-03T00:00:00Z</published>
+  <updated>2017-03-03T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>My old apartment on the 58th floor started to feel a little too expensive and
+no longer provided the same value it had. Luckily, I met a friend through
+meetup.com that was also looking to move out. After some searching, we’ve found
+a building that we liked and managed to secure a decent 2 bedroom, 2 bathroom
+apartment (with a carspace). This apartment is a lot larger than the 2 bedroom,
+1 bathroom ones, so it’s definitely an upgrade in quality of living with less
+rent and also NBN!</p>
+
+<p>We’ve signed a one year lease. I’m already saving nearly $100 a week from the
+old place. More space, more internet, more money leftover, split bills,
+friendly housemate. Everything looking up for the start of this year.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">New job - Post Doctoral Researcher at IBM Research Australia</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/new-job-post-doc-ibm.html" />
+  <id>http://localhost:3000/new-job-post-doc-ibm</id>
+  <published>2016-06-01T00:00:00Z</published>
+  <updated>2016-06-01T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>After just over a year at my first job, I’ve moved back to research, but in
+industry. The old job was a research role in the APS but there was a lot more
+development work rather than research. Furthermore, they don’t understand what
+research means anymore. Hopefully IBM will be different and it should be as it
+is a research lab.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">New apartment in Melbourne CBD on the 58th floor!</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/new-apartment-melbourne-cbd.html" />
+  <id>http://localhost:3000/new-apartment-melbourne-cbd</id>
+  <published>2015-11-23T00:00:00Z</published>
+  <updated>2015-11-23T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>After 5 months of living in a small apartment with a terrible neighbour, it’s
+time to move onto a better apartment. It’s a one bedroom apartment with a
+rather odd powder room; seems to be a waste of living space. Signed a one year
+lease, so will be here for a while.</p>
+
+<p>I’m also starting to work out my finances, how to be more comfortable in
+spending my money, what I can afford, and what I need to save for.</p>
+ ]]></content>
+</entry>
+
+
+  <entry>
+  <title type="text">Arrived in Melbourne with a new job, new apartment, in a new city</title>
+  <link rel="alternate" type="text/html" href="http://localhost:3000/arrived-in-melbourne.html" />
+  <id>http://localhost:3000/arrived-in-melbourne</id>
+  <published>2015-05-27T00:00:00Z</published>
+  <updated>2015-05-27T00:00:00Z</updated>
+  <content type="html"><![CDATA[ <p>After 20 years of living in Canberra, I’ve moved to Melbourne for a new job
+with the Australian Government. I’ve managed to find an APS job outside of
+Canberra!</p>
+
+<p>I’ve settled for a short-term (6 month lease) in a studio apartment right next
+to the Queen Victoria Markets and 15 minutes walk from work. I shouldn’t need a
+car while living here.</p>
+
+<p>Melbourne feels overwhelming so far. Time to make new friends and discover this
+city.</p>
+
  ]]></content>
 </entry>
 
